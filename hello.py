@@ -51,7 +51,7 @@ def main():
     print('Hello World!')
 
     # print something to the output panel in VS Code
-    debug_print('Hello VS Code!')
+    debug_print('Hello Sami!')
 
     # wait a bit so you have time to look at the display before the program
     # exits
