@@ -48,7 +48,7 @@ def main():
     set_font('Lat15-Terminus24x12')
 
     # print something to the screen of the device
-    print('Hello World!')
+    print('Hej med dig!')
 
     # print something to the output panel in VS Code
     debug_print('Hello Sami!')
